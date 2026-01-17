@@ -24,8 +24,11 @@ Data Cleaning & Preparation :
    - Created New Time-based Columns
    - Created Calculated Fields
    - Standardized Text Fields
+
 Dashboard Screenshot:
+
 ![Dashboard Preview](https://github.com/276vaibhav/DATA-ANALYST-PROJECT/blob/main/Vrinda%20Analysis%20screenshot.png)
+
 Summary: 
 
 The Vrinda Store dashboard analyzes 8,524 e-commerce records to understand customer 
